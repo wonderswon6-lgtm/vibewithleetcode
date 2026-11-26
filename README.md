@@ -5,13 +5,13 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 10 | 8 | 2 | 0 |
+| 11 | 9 | 2 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 4 days | 9 |
+| 2 days | 4 days | 10 |
 
 | Date | Problems |
 | --- | ---: |
@@ -24,30 +24,33 @@
 | 2026-11-22 | 1 |
 | 2026-11-23 | 1 |
 | 2026-11-25 | 1 |
+| 2026-11-26 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 7 | 70% |
-| Math | 3 | 30% |
-| String | 3 | 30% |
-| Binary Search | 2 | 20% |
-| Hash Table | 2 | 20% |
-| Sorting | 2 | 20% |
-| Two Pointers | 2 | 20% |
-| Greedy | 1 | 10% |
+| Array | 8 | 73% |
+| Math | 4 | 36% |
+| Binary Search | 3 | 27% |
+| Hash Table | 3 | 27% |
+| Sorting | 3 | 27% |
+| String | 3 | 27% |
+| Two Pointers | 2 | 18% |
+| Bit Manipulation | 1 | 9% |
+| Greedy | 1 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 7 |
-| [Binary Search](Topics/binary-search/) | 2 |
+| [Array](Topics/array/) | 8 |
+| [Binary Search](Topics/binary-search/) | 3 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 2 |
-| [Math](Topics/math/) | 3 |
-| [Sorting](Topics/sorting/) | 2 |
+| [Hash Table](Topics/hash-table/) | 3 |
+| [Math](Topics/math/) | 4 |
+| [Sorting](Topics/sorting/) | 3 |
 | [String](Topics/string/) | 3 |
 | [Two Pointers](Topics/two-pointers/) | 2 |
 <!---LeetHub Summary End-->

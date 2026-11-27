@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-26T00:50:40.868Z",
+  "updatedAt": "2026-11-27T17:24:22.921Z",
   "problems": [
     {
       "frontendId": "1",
@@ -64,6 +64,26 @@
           "path": "0268-missing-number/0268-missing-number.cpp",
           "sha": "d01f70c8f7d318b37148771f0510654bcaf3da26",
           "lastSyncedAt": "2026-11-26T00:50:40.868Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3731",
+      "title": "Find Missing Elements",
+      "slug": "find-missing-elements",
+      "problemName": "3731-find-missing-elements",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-missing-elements/",
+      "folderPath": "3731-find-missing-elements/",
+      "readmePath": "3731-find-missing-elements/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "3731-find-missing-elements.cpp",
+          "path": "3731-find-missing-elements/3731-find-missing-elements.cpp",
+          "sha": "83e6e504780b71a2fb821ec61505d6f07b081ce5",
+          "lastSyncedAt": "2026-11-27T17:24:22.921Z"
         }
       ]
     }

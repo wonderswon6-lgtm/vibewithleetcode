@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "linked-list",
+    "name": "Linked List",
+    "tagId": "7"
+  },
+  "updatedAt": "2026-11-28T15:46:18.691Z",
+  "problems": [
+    {
+      "frontendId": "21",
+      "title": "Merge Two Sorted Lists",
+      "slug": "merge-two-sorted-lists",
+      "problemName": "0021-merge-two-sorted-lists",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "folderPath": "0021-merge-two-sorted-lists/",
+      "readmePath": "0021-merge-two-sorted-lists/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0021-merge-two-sorted-lists.cpp",
+          "path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.cpp",
+          "sha": "e3e8ea89725665d1bc16182da5092e591bf21417",
+          "lastSyncedAt": "2026-11-28T15:46:18.691Z"
+        }
+      ]
+    }
+  ]
+}

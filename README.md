@@ -5,13 +5,13 @@
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 13 | 11 | 2 | 0 |
+| 12 | 10 | 2 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 4 days | 4 days | 12 |
+| 3 days | 4 days | 11 |
 
 | Date | Problems |
 | --- | ---: |
@@ -26,22 +26,20 @@
 | 2026-11-25 | 1 |
 | 2026-11-26 | 1 |
 | 2026-11-27 | 1 |
-| 2026-11-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 9 | 69% |
-| Hash Table | 4 | 31% |
-| Math | 4 | 31% |
-| Sorting | 4 | 31% |
-| Binary Search | 3 | 23% |
-| String | 3 | 23% |
-| Two Pointers | 2 | 15% |
+| Array | 9 | 75% |
+| Hash Table | 4 | 33% |
+| Math | 4 | 33% |
+| Sorting | 4 | 33% |
+| Binary Search | 3 | 25% |
+| String | 3 | 25% |
+| Two Pointers | 2 | 17% |
 | Bit Manipulation | 1 | 8% |
 | Greedy | 1 | 8% |
-| Linked List | 1 | 8% |
 
 ## Topics
 
